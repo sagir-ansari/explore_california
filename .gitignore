@@ -1,0 +1,12 @@
+# Comment
+
+tempfile.txt
+*.zip
+*.gz
+logs/*.log
+logs/*.log.[0-9]
+assets/photoshop/
+assets/videos/
+!assets/videos/tours_*.mp4
+
+# question would logs/archive/log1.log be ignored? No
