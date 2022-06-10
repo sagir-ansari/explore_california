@@ -38,7 +38,7 @@
             <stringProp name="RESPONSE_CODE">401</stringProp>
             <stringProp name="RESPONSE_MESSAGE">Unauthorized</stringProp>
             <stringProp name="REQUEST_DATA">{
-    &quot;code&quot;: &quot;1234567&quot;
+    &quot;code&quot;: &quot;12345678&quot;
 }</stringProp>
             <stringProp name="RESPONSE_DATA">{
    &quot;Error message&quot;: &quot;Incorrect password or confirmation code entered. Please try again.&quot;
