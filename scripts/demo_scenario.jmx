@@ -123,7 +123,7 @@ without actual network activity. This helps debugging tests.</stringProp>
             <stringProp name="RESPONSE_CODE">200</stringProp>
             <stringProp name="RESPONSE_MESSAGE">OK</stringProp>
             <stringProp name="REQUEST_DATA">Dummy Sampler used to simulate requests and responses
-without actual network activity. This helps debugging tests1.</stringProp>
+without actual network activity. This helps debugging tests1. Changed</stringProp>
             <stringProp name="RESPONSE_DATA">Dummy Sampler used to simulate requests and responses
 without actual network activity. This helps debugging tests.</stringProp>
             <stringProp name="RESPONSE_TIME">${__Random(50,500)}</stringProp>
